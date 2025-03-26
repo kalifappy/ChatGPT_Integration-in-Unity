@@ -11,7 +11,7 @@ This Unity project integrates **ChatGPT** for AI-powered text responses. Just ad
 - ## 🖼️ Preview  
 Here’s a preview of the ChatGPT integration in action:  
 
-![ChatGPT in Unity](Gif/chat-preview.gif) 
+![Image](https://github.com/user-attachments/assets/76b83191-fa09-4403-8b94-c116394d3915)
 
 ## 🛠️ Setup Instructions  
 
