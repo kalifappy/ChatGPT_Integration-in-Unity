@@ -21,16 +21,21 @@ git clone https://github.com/kalifappy/ChatGPT_Integration-in-Unity.git
 
 2️⃣ Get Your OpenAI API Key
 1.Visit OpenAI and create an account.
+
 2.Go to API Keys and generate a new key.
+
 3.(Optional) Get your Organization Key if required.
 
 3️⃣ Add Your API Key to Unity
 1.Open Unity and load the project.
+
 2.Navigate to the Discussion Manager script/component in the Unity Inspector.
+
 3.Enter your OpenAI API Key and Organization Key.
 
 4️⃣ Run the Project
 1.Press Play in Unity.
+
 2.Type in the chatbox, and ChatGPT will respond!
 
 
